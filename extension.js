@@ -95,9 +95,9 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: http://bit.ly/1TLonuq,
+      rulesLink: null,http://bit.ly/1TLonuq
       themeLink: null,
-      fbLink: http://on.fb.me/1WxLCMF,
+      fbLink: null,http://on.fb.me/1WxLCMF
       youtubeLink: null,
       website: null,
       intervalMessages: [],
@@ -105,9 +105,9 @@
       songstats: true,
       commandLiteral: "!",
       blacklists: {
-        NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/NSFWlist.json",
-        OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/OPlist.json",
-        BANNED: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/BANNEDlist.json"
+        NSFW: "https://rawgit.com/TermixMan/basicBot-customization/master/blacklists/NSFWlist.json",
+        OP: "https://rawgit.com/TermixMan/basicBot-customization/master/blacklists/OPlist.json",
+        BANNED: "https://rawgit.com/TermixMan/basicBot-customization/master/blacklists/BANNEDlist.json"
       }
     }));
 
