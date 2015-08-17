@@ -95,9 +95,9 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,http://bit.ly/1TLonuq
+      rulesLink: null,
       themeLink: null,
-      fbLink: null,http://on.fb.me/1WxLCMF
+      fbLink: null,
       youtubeLink: null,
       website: null,
       intervalMessages: [],
