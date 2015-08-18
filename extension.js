@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "-MusicBot-",
       language: "czech",
-      chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/cs.json",
+      chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
       scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
